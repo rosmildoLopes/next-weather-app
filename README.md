@@ -12,18 +12,18 @@ The application fetch data from the Open Weather API . I'm using axios to reques
 
 ## Layout mobile
 
-![Mobile 1](/images/mobile1.png)
+[![Mobile 1](/images/mobile1.png)](https://github.com/rosmildoLopes/next-weather-app/issues/1#issue-1713126504)
 
 
 ## Layout web
 
-![Web 1](https://github.com/rosmildoLopes//raw/main/sds1/web1.png)
+[![Web 1](https://github.com/rosmildoLopes//raw/main/sds1/web1.png)](https://github.com/rosmildoLopes/next-weather-app/issues/1#issue-1713126504)
 
 # Tecnologies
 
 ## Front end
 
-- React / Next / JS / TypeScript
+- React / Next / Javascript
 - ReactJS
 - NextJs
 - Axios
