@@ -1,6 +1,6 @@
 # Weather App with Next
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)]([(https://github.com/rosmildoLopes/next-weather-app/blob/main/LICENSE]))
 
 # About the project
 
