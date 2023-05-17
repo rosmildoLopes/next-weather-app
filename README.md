@@ -12,11 +12,12 @@ The application fetch data from the Open Weather API . I'm using axios to reques
 
 ## Layout mobile
 
-![Mobile 1](https://github.com/rosmildoLopes/image/mobile1.png)
+![Mobile 1](/images/mobile1.png)
+
 
 ## Layout web
 
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/rosmildoLopes//raw/main/sds1/web1.png)
 
 # Tecnologies
 
